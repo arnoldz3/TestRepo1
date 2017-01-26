@@ -6,6 +6,7 @@
 
 int main()
 {
+	std::cout << "Print Here.\n";
     return 0;
 }
 
